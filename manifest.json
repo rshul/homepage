@@ -1,0 +1,16 @@
+{
+    "short_name": "RH",
+    "name": "RYU HOSHI",
+    "icons": [
+      {
+        "src": "/assets/images/android-icon-192x192..png",
+        "type": "image/png",
+        "sizes": "192x192"
+      } 
+    ],
+    "start_url": "/index.html",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "white"
+  }
